@@ -3,7 +3,7 @@
 ##  Project Overview
 This project aims to streamline and optimize various aspects of  AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
 
-### Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiODc0MDgyZDAtMzIyYi00ZWUzLTk3YWMtM2JlODc3NzNjZjNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### Live Dashboard Link: https://www.novypro.com/project/atliq-hardware-business-insights-3
 ## Finance View
 
 ### Objectives
