@@ -1,9 +1,15 @@
-# -AtliQ-Hardware-Business-Insights--360    
+![Business_Insights_360](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/31800963-1608-4034-a048-17dd06fb6174)
+
+# AtliQ Hardware Business Insights 360    
 
 ##  Project Overview
 This project aims to streamline and optimize various aspects of  AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
 
-### Live Dashboard Link: https://www.novypro.com/project/atliq-hardware-business-insights-3
+### Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiODc0MDgyZDAtMzIyYi00ZWUzLTk3YWMtM2JlODc3NzNjZjNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+## Problem Statement
+AtliQ Hardware is a global supplier of computer peripherals. While they initially performed well, they have faced significant losses in recent years. This is primarily due to their reliance on static Excel reports, which did not provide the insights needed for informed decision-making. Consequently, they've brought in a data analytics team to develop a dynamic Power BI dashboard that serves as as multifunctional tool with insights for various departments (Finance, Sales, Marketing, Supply Chain and Executive view).
+
 ## Finance View
 
 ### Objectives
@@ -13,6 +19,10 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
 ### Key Achievements
 1. Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
 2. Created benchmarking against last year and target goals for budgeting.
+
+Snap of Finance View,
+
+![3  Finance View](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/09ad33b9-ae1f-4baa-a795-eca81515da0d)
 
 ## Sales View
 
@@ -24,6 +34,24 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
 1.  Created customer and product  overall sales performance report and unit economics. 
 2. Identified sales trends and track KPIs
 
+Snap of Sales View,
+
+![4  Sales View](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/8e6872db-7947-40ef-8591-3d9a0c9a8f0c)
+
+## Marketing View
+
+### Objectives
+1. Increase brand visibility and customer engagement.
+2. Implement data-driven marketing strategies.
+
+### Key Achievements
+1. Created  region and product wise  overall market performance report and unit economics. 
+2. Identified  market trends and track KPIs
+
+Snap of Marketing View,
+
+![5  Marketing View](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/c0ee45fb-0797-4ae1-b070-810208766054)
+
 ## Supply Chain View
 
 ### Objectives
@@ -33,6 +61,10 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
 ### Key Achievements
 1.Identified forecast accuracy % , net error % ,absolute error %  trends
 2. Key Metrices by customers and products demanding supply management.
+
+Snap of Sales View,
+
+![6  Supplychain View](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/aa485013-0008-41f2-9070-9f5dbc1240dc)
 
 ## Executive View
 
@@ -44,16 +76,22 @@ This project aims to streamline and optimize various aspects of  AtliQ Hardwres 
 1. Developed an executive dashboard for real-time performance monitoring.
 2.  Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
 
-## Marketing View
+Snap of Executive View,
 
-### Objectives
-1. Increase brand visibility and customer engagement.
-2. Implement data-driven marketing strategies.
+![7  Executive View](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/b438c9e0-c242-4a45-a2e2-29b26710a658)
 
-### Key Achievements
-1. Created  region and product wise  overall market performance report and unit economics. 
-2. Identified  market trends and track KPIs
- 
+## Data Modelling
+
+![Data Modelling](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/48ef0c28-6a9e-4bd7-96ab-115fffba312b)
+
+## Snap of Key Measures
+
+![Measures1](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/8007ff4e-f1a9-415a-a9e0-ea6a4206d1a3)
+
+![Measures2](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/7fdb0851-1a69-45c4-bb7e-edf74e164ad4)
+
+![Measures3](https://github.com/Ankit-KY/Business_Insights_360/assets/148628279/a06f8d23-ea01-4674-93fa-7b80714a96a5)
+
 ## Skills
 ### Learnt Power BI fundamentals
   1. creating calcualting columns and DAX measures
