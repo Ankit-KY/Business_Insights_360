@@ -126,3 +126,7 @@ Snap of Executive View,
  ### Conclusion
     This dashboard answers many business questions based on different scenerio.
     This report can be used to take data driven decision to make AtliQ more profitable.
+
+
+#### Do you have  any questions ? Feel free to ask anything….
+### Connect with me on [linkedin](https://www.linkedin.com/in/ankit-kumar-yadav3027)
